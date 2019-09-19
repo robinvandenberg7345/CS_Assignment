@@ -3,4 +3,4 @@ An analysis of the forces required to drag sheep over various surfaces
 The neurocognitive effects of alcohol on adolescents and college students
 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/robinvandenberg7345/CS_Assignment/blob/master/beerconsumptionagainstwostudents.png)
